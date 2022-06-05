@@ -20,7 +20,13 @@
 ### Detailed Project Proposal
 
 > 1. Project background including problem statement
-> 
+
+Various technologies such as AI, Big Data Analytics, Cloud Computing, and Industrial IoT (Internet of Things) have made smart manufacturing practices fully comprehensive.
+
+By connecting the physical and digital world, smart factories can monitor the entire production process, from manufacturing tools and the supply chain to individual operators on the shop floor.
+
+When fully realized, Smart factories use fully integrated, collaborative manufacturing systems to make operations flexible, adaptable, and optimizable.
+
 > 2. Objective(s) of the Project: This project embarks on the following objectives:
 >> a. To investigate...
 >> 
