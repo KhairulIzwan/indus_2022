@@ -2,9 +2,9 @@
 
 ## Theme (teams to select only one)
 
-1. Smart Retail -Supermarket
+1. ~~Smart Retail -Supermarket~~
 
-2. Smart Disaster Relief – Flood
+2. ~~Smart Disaster Relief – Flood~~
 
 3. **Smart Industrial – Manufacturing**
 
