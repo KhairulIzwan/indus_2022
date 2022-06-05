@@ -1,6 +1,6 @@
 # indus_2022
 
-## Theme (teams to select only one)
+## Selected Theme
 
 1. ~~Smart Retail -Supermarket~~
 
@@ -14,8 +14,23 @@
 **Smart Industrial - Manufacturing (more specifically)**
 
 ### Executive Summary
-*Please include the brief description of project, literature reviews, objectives, methodology and expected outcomes from the project*
 
+> Please include the brief description of project, literature reviews, objectives, methodology and expected outcomes from the project
+
+### Detailed Project Proposal
+
+> Project background including problem statement
+> 
+>Objective(s) of the Project: This project embarks on the following objectives:
+>> To investigate...
+>> To assess...
+>> To develop ...
+>> To make recommendation based on…
+> 
+> Methodology
+>> Expected Outcome of the Project
+>> Intel software used
+> 
 
 ## References:
 1. [Industry-University Challenge 2022](https://thegreatlab.my/2022indus/)
