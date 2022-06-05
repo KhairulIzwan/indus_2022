@@ -19,17 +19,21 @@
 
 ### Detailed Project Proposal
 
-> Project background including problem statement
+> 1. Project background including problem statement
 > 
->Objective(s) of the Project: This project embarks on the following objectives:
->> To investigate...
->> To assess...
->> To develop ...
->> To make recommendation based on…
+> 2. Objective(s) of the Project: This project embarks on the following objectives:
+>> a. To investigate...
+>> 
+>> b. To assess...
+>> 
+>> c. To develop ...
+>> 
+>> d. To make recommendation based on…
 > 
-> Methodology
->> Expected Outcome of the Project
->> Intel software used
+> 3. Methodology
+>> a. Expected Outcome of the Project
+>> 
+>> b. Intel software used
 > 
 
 ## References:
