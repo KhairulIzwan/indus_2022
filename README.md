@@ -34,6 +34,8 @@
 
 > 1. **Project background including problem statement**
 
+![The convergence of new Industry 4.0 technologies](img/convergence_38122912-1-600x606.png)
+
 The Smart Factory is a concept for expressing the end goal of digitization in manufacturing.
 
 The way the term is most commonly used, a Smart Factory is a highly digitized shop floor that continuously collects and shares data through connected machines, devices, and production systems. The data can then be used by self-optimizing devices or across the organization to proactively address issues, improve manufacturing processes and respond to new demands.
@@ -43,6 +45,16 @@ Various technologies such as AI, Big Data Analytics, Cloud Computing, and Indust
 By connecting the physical and digital world, smart factories can monitor the entire production process, from manufacturing tools and the supply chain to individual operators on the shop floor.
 
 When fully realized, Smart factories use fully integrated, collaborative manufacturing systems to make operations flexible, adaptable, and optimizable.
+
+The manufacturing practice adopted by smart factories – smart manufacturing – is the most optimized application of technologies arising from the fourth industrial revolution known as Industry 4.0.
+
+The smart factory is not about deploying one software across the entire shop floor and seeing immediate improvements in the production process. A combination of various Industry 4.0 technologies contribute to the optimization of smart manufacturing.
+
+Smart factories optimize efficiency and productivity by extending the capabilities of both manufacturing devices and people. By focusing on creating an agile, iterative production process through data collection, smart factories can aid decision-making processes with stronger evidence.
+
+By continuously improving the productivity of manufacturing processes, smart factories can lower costs, reduce downtime and minimize waste. Identifying and reducing misplaced or underused production capacities mean opportunities for growth without investing in additional monetary and/or physical resources.
+
+Advanced robotics are increasingly capbale of complex, highly sensitive assemblies. They generate data on thier production that AI algorithms can analyze. And they are increasingly capbale of work intelligently alongside human operators.
 
 > 2. Objective(s) of the Project: This project embarks on the following objectives:
 >> a. To investigate...
