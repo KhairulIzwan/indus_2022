@@ -8,6 +8,19 @@
 
 3. **Smart Industrial – Manufacturing**
 
+> 
+> **Preliminary Round (19th June 2022)**
+>> Teams to submit project proposal by the due date.
+>> 
+>> 5 teams from each category will be selected to go into semi-finals.
+> 
+> **Semi Final Round (tentative in October/November 2022)**
+>> Each team needs to submit a maximum 10 minute video to present their solutions
+>> The judges will assess and select 2 teams from each category (6 teams) to compete in the final round.
+> 
+> **Final Round (tentative in October/November 2022)**
+>> 6 finalist teams to take part in team presentation on a virtual live platform before a panel of judges for question and answer session.
+
 ## Proposal
 
 ### Title
@@ -44,3 +57,4 @@ When fully realized, Smart factories use fully integrated, collaborative manufac
 
 ## References:
 1. [Industry-University Challenge 2022](https://thegreatlab.my/2022indus/)
+2. [Omni wheel Robot part 1 : prototype](https://www.youtube.com/watch?v=Q4cmc4eKXr0&ab_channel=KrisTemmerman)
