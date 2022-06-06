@@ -30,10 +30,6 @@
 
 > **Please include the brief description of project, literature reviews, objectives, methodology and expected outcomes from the project**
 
-### Detailed Project Proposal
-
-> 1. **Project background including problem statement**
-
 ![The convergence of new Industry 4.0 technologies](img/convergence_38122912-1-600x606.png)
 
 The Smart Factory is a concept for expressing the end goal of digitization in manufacturing.
@@ -56,9 +52,16 @@ By continuously improving the productivity of manufacturing processes, smart fac
 
 Advanced robotics are increasingly capbale of complex, highly sensitive assemblies. They generate data on thier production that AI algorithms can analyze. And they are increasingly capbale of work intelligently alongside human operators.
 
-> 2. Objective(s) of the Project: This project embarks on the following objectives:
+### Detailed Project Proposal
+
+> 1. **Project background including problem statement**
+
+There is no one-size-fits-all strategy for a successful Industry 4.0 transformation. Strategies will vary depending on company size, industry, geography, and competitive forces, among others.
+
+> 2. **Objective(s) of the Project: This project embarks on the following objectives:**
 >> a. To investigate...
 >> 
+> 
 >> b. To assess...
 >> 
 >> c. To develop ...
