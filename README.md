@@ -59,21 +59,35 @@ Advanced robotics are increasingly capbale of complex, highly sensitive assembli
 There is no one-size-fits-all strategy for a successful Industry 4.0 transformation. Strategies will vary depending on company size, industry, geography, and competitive forces, among others.
 
 > 2. **Objective(s) of the Project: This project embarks on the following objectives:**
->> a. To investigate...
+>> a. **To investigate...**
 >> 
 > 
 
->> b. To assess...
->> 
->> c. To develop ...
->> 
->> d. To make recommendation based on…
 > 
-> 3. Methodology
->> a. Expected Outcome of the Project
->> 
->> b. Intel software used
+>> b. **To assess...**
+>>
 > 
+
+> 
+>> c. **To develop...**
+>>
+> 
+
+> 
+>> d. **To make recommendation based on...**
+>>
+>
+ 
+> 3. **Methodology**
+>> a. **Expected Outcome of the Project**
+>> 
+> 
+
+> 
+>> b. **Intel software used**
+>>
+> 
+
 
 ## References:
 1. [Industry-University Challenge 2022](https://thegreatlab.my/2022indus/)
