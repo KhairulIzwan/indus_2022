@@ -28,11 +28,15 @@
 
 ### Executive Summary
 
-> Please include the brief description of project, literature reviews, objectives, methodology and expected outcomes from the project
+> **Please include the brief description of project, literature reviews, objectives, methodology and expected outcomes from the project**
 
 ### Detailed Project Proposal
 
-> 1. Project background including problem statement
+> 1. **Project background including problem statement**
+
+The Smart Factory is a concept for expressing the end goal of digitization in manufacturing.
+
+The way the term is most commonly used, a Smart Factory is a highly digitized shop floor that continuously collects and shares data through connected machines, devices, and production systems. The data can then be used by self-optimizing devices or across the organization to proactively address issues, improve manufacturing processes and respond to new demands.
 
 Various technologies such as AI, Big Data Analytics, Cloud Computing, and Industrial IoT (Internet of Things) have made smart manufacturing practices fully comprehensive.
 
@@ -57,4 +61,5 @@ When fully realized, Smart factories use fully integrated, collaborative manufac
 
 ## References:
 1. [Industry-University Challenge 2022](https://thegreatlab.my/2022indus/)
-2. [Omni wheel Robot part 1 : prototype](https://www.youtube.com/watch?v=Q4cmc4eKXr0&ab_channel=KrisTemmerman)
+2. [What Is A Smart Factory? (And What It Means For You)](https://tulip.co/glossary/what-is-a-smart-factory-and-what-it-means-for-you/)
+3. [Omni wheel Robot part 1 : prototype](https://www.youtube.com/watch?v=Q4cmc4eKXr0&ab_channel=KrisTemmerman)
