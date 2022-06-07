@@ -58,6 +58,25 @@ Advanced robotics are increasingly capbale of complex, highly sensitive assembli
 
 There is no one-size-fits-all strategy for a successful Industry 4.0 transformation. Strategies will vary depending on company size, industry, geography, and competitive forces, among others.
 
+According to a recent WEF report, there are two, complementary routes to scale for companies looking to leverage Industry 4.0 technology to their advantage.
+
+1. Innovate the production system: expand competitive advantage through operational excellence.
+2. Innovate the end-to-end value chain: create new businesses by changing the economics of operations.
+
+Along this road there are some common stumbling blocks.
+
+1. Lack of executive vision
+
+The executives who participated in Deloitte’s Digital Transformation survey agreed that a lack of a long-term, detailed executive vision is the greatest barrier in a digital transformation. Devising the right digital strategy requires detailed knowledge of an industry, and the foresight to anticipate which technologies will be most disruptive in a given space. The most successful digital transformations occur when executives set 1, 3, 5, and 10-year goals for their digital transformation.
+
+2. Starting too big
+
+A full digital transformation doesn’t happen overnight. It’s a product of long-term, incremental changes to technological ecosystems. Still, many companies strive for full digitization without filling in the gaps. The best transformations will work from proof-of-concept to proof-of-concept, putting pieces into place as they work toward something larger. They’ll build on early successes, embrace failure, and gradually build a suite of technology solutions that work together.
+
+3. Not connecting the dots
+
+The ideal factory is seamlessly connected. But not all technologies are equally amenable to integration at an early stage. Failing to start with basic infrastructural improvements (wifi, server space, re-skilling, and talent acquisition) can hinder later initiatives. All the data in the world, for example, won’t help without data scientists to make meaning of it.
+
 > 2. **Objective(s) of the Project: This project embarks on the following objectives:**
 >> a. **To investigate...**
 >> 
@@ -93,3 +112,4 @@ There is no one-size-fits-all strategy for a successful Industry 4.0 transformat
 1. [Industry-University Challenge 2022](https://thegreatlab.my/2022indus/)
 2. [What Is A Smart Factory? (And What It Means For You)](https://tulip.co/glossary/what-is-a-smart-factory-and-what-it-means-for-you/)
 3. [Omni wheel Robot part 1 : prototype](https://www.youtube.com/watch?v=Q4cmc4eKXr0&ab_channel=KrisTemmerman)
+4. [Why You Should Use an Omnidirectional Autonomous Mobile Robot (full length)]()
